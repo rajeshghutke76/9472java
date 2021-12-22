@@ -14,5 +14,11 @@ public class Program10 {
 						" Collection.sort() :\n" + al);
 	}
 }
+/*
+output:
 
+List after the use of Collection.sort() :
+[Dear, Friends, Geeks For Geeks, Is, Superb]
+
+*/
 
