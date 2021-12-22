@@ -13,3 +13,12 @@ public class Program3 {
 	}
 
 }
+
+/*   
+
+output:
+char value c
+int value 88
+long value 99
+
+*/
