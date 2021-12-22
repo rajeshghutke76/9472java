@@ -11,4 +11,9 @@ public class Program8 {
 	}
 }
 
+/*
+output:
 
+Modified arr[] : %s
+
+*/
