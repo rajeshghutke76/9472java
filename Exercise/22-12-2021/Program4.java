@@ -9,6 +9,16 @@ public class Program4 {
 		System.out.println("Long value   " + l);
 		System.out.println("Int value    " + i);
 	}
-}
 	
+}
+
+/*
+
+output:
+Double value 100.04
+Long value   100
+Int value    100
+
+*/
+
 
