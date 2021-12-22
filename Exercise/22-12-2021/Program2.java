@@ -11,3 +11,13 @@ public class Program2 {
 	    System.out.println("Flot value is" + f);
 }
  }
+ 
+/*
+
+output:
+
+char value isc
+int value is 88
+Flot value is88.0
+
+*/
