@@ -18,4 +18,12 @@ public class Program5 {
 }
 
 
+/*
+output:
+Conversion of int to byte.
+i = 257 b = 1
 
+Conversion of double to byte.
+d = 323.142 b= 67
+
+*/
