@@ -13,5 +13,10 @@ public class Program6 {
 	}
 }
 
+/*
+output:
 
+result = 626.7784146484375
+
+*/
 
