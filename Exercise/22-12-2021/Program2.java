@@ -8,7 +8,7 @@ public class Program2 {
 		float f=num;
 		System.out.println("char value is"+ ch);
 		System.out.println("int value is " + num);
-	    System.out.println("Flot value is" + f);
+	        System.out.println("Flot value is" + f);
 }
  }
  
