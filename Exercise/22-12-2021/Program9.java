@@ -16,5 +16,17 @@ public class Program9 {
 	}
 }
 
+/*
+outputL:
+
+Modified arr[] : 
+%s
+
+
+Modified arr[] : 
+%s
+
+
+*/
 
 
