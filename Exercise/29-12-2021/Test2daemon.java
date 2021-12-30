@@ -10,3 +10,9 @@ public class Test2daemon extends Thread{
    td.start();
 	}
 }
+
+/*
+output:
+Running thread is daemon...
+
+*/
