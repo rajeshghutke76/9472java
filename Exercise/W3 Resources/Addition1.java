@@ -15,3 +15,13 @@ public class Addition1 {
 	}
 
 }
+/*
+ Output:
+ 
+Input the first number:
+100
+Input the second number:
+200
+Sum:300
+
+*/
