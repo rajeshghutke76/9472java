@@ -16,5 +16,16 @@ public class Nameprints {
 }
 /*
 Output:
+Input  the first name:
+Rajesh
+
+Input  the midle name:
+Bhimrao
+
+Input  the last name:
+Ghutke
+
+Hello 
+Rajesh Bhimrao Ghutke
 
 */
