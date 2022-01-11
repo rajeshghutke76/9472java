@@ -6,5 +6,6 @@ public class Namesprints3 {
 }
 /*
 Output:
-
+Hello
+Rajesh Ghutke
 */
