@@ -27,6 +27,12 @@ while (itr.hasNext()) {
 }
 /*
 OUTPUT:
+Rajesh
+shubham
+Govind
+Ajay
+Bhushan
+Pandurang
 
  */
 
