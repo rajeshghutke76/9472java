@@ -25,3 +25,12 @@ public class ExampleArray3 {
 	  arr[i].roll_no +" "+ arr[i].name);
 	  }
    }  
+/* 
+Output:
+Element at 0 : 1 rajesh
+Element at 1 : 2 amit
+Element at 2 : 3 waman
+Element at 3 : 4 shubham
+Element at 4 : 5 rajnish
+
+ */
