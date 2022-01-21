@@ -33,5 +33,17 @@ public class Numberpro {
 	  System.out.println("The maximum and minimum no is:"+(a));
   }
 	}
+	
 
-}
+/*
+output:
+12
+10
+Addition of a and b :12.010.0
+Multiplication of a and b:120.0
+Division of a and b :1.2
+Average of a and b:11.0
+maximum number is:12.0
+minimum no is :10.0
+
+ */ 
