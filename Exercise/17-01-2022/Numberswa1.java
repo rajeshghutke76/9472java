@@ -20,3 +20,16 @@ System.out.println();
 	}
 
 }
+
+/*
+ Output:
+ Enter the two numbers:
+
+56
+89
+
+Before swapping:56 89
+
+After swapping:89 56
+
+ */
