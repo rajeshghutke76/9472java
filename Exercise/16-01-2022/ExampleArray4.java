@@ -10,3 +10,9 @@ public class ExampleArray4 {
 	}
 
 }
+/*
+Output:
+9.78
+9
+
+*/
