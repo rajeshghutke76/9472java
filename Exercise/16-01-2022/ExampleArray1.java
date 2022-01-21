@@ -13,3 +13,13 @@ public class ExampleArray1 {
 	}
 
 }
+
+/*
+Output:
+10
+20
+30
+40
+50
+60
+*/
